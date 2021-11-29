@@ -1,0 +1,10 @@
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\bin\Debug\PaintAppication.exe.config
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\bin\Debug\PaintAppication.exe
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\bin\Debug\PaintAppication.pdb
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.csproj.AssemblyReference.cache
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.Form1.resources
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.Properties.Resources.resources
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.csproj.GenerateResource.cache
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.csproj.CoreCompileInputs.cache
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.exe
+C:\Users\Siraj\source\repos\PaintAppication\PaintAppication\obj\Debug\PaintAppication.pdb
